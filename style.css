@@ -268,6 +268,7 @@ header .navbar li a:hover{
     font-size: 3em;
     color: rgb(137, 66, 188);
     margin-bottom: 1.25rem;
+    text-decoration: underline;
 }
 
 .cv-derecha p{
@@ -346,6 +347,7 @@ header .navbar li a:hover{
     gap: 0.7rem;
     font-size: 1.1em;
     color: #333;
+    font-weight: 600;
 }
 
 .info-contacto ion-icon{
