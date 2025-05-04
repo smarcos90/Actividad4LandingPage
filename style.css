@@ -447,3 +447,23 @@ header .navbar li a:hover{
     background-color: #fff;
     color: rgb(137, 66, 188);
 }
+
+/*Media*/
+@media (max-width: 1300px){
+    .contenido .tituloBox h2{
+        font-size: 2.5rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .contenido .tituloBox p{
+        font-size: 1.4rem;
+    }
+
+    .contenido .imgBox{
+        width: 12rem;
+    }
+
+    .contenido .imgBox img {
+        height: 65vh;
+    }
+}
